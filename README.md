@@ -2,6 +2,7 @@
 ## It's my semester project.
 
 ## Youtube Video for understanding: https://youtu.be/0ujPBnS8rI0
+## Research of this project: https://www.researchgate.net/project/Krucial
 
 ### --------------------------------------------------------------------
 
